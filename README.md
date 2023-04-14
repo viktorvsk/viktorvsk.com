@@ -1,6 +1,6 @@
 # Personal blog
 
-![Template](https://github.com/artemsheludko/flexible-jekyll)
+[Template](https://github.com/artemsheludko/flexible-jekyll)
 
 ## License
 
