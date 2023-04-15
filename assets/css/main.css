@@ -1494,7 +1494,7 @@ a.newer-posts:hover {
         -ms-flex-align: stretch;
             align-items: stretch;
   }
-  .contact-title, .copyright {
+  .contact-title, .copyright, .pages-title {
     display: none;
   }
 }
