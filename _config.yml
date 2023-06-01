@@ -11,11 +11,14 @@ site-twitter: viktorvsk
 author: Viktor Vsk # add your name
 author-img: avatar.jpg # add your photo
 about-author: Software Developer
-social-twitter: viktorvsk
-social-facebook: viktorvsk.official
+social-facebook: viktorvsk.ukraine
 social-github: viktorvsk # add your Github handle
 social-linkedin: viktorvsk
 social-email: me@viktorvsk.com
+social-stackoverflow: 2153409/viktor-vsk # https://stackoverflow.com/users/2153409/viktor-vsk
+social-instagram: viktorvsk
+social-skype: https://join.skype.com/invite/ufEWTkWLfJHQ
+gpg-fingerprint: B933 9AAF E55A 63EF 6E04  C0A9 C8A6 A9F5 EFE5 5F72
 
 # Build Settings
 markdown: kramdown
